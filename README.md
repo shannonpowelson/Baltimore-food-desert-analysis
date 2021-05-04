@@ -11,7 +11,7 @@ _How are food deserts distributed in Baltimore City, Maryland?_
 ## Data Analysis
 First we identify the main sources of food in Baltimore City, Maryland.  These main food sources are grocery stores, street food vendors, and restaurants.  We graphed the number of locations of each food source below.  
 
-
+![alt text](https://github.com/shannonpowelson/Baltimore-food-desert-analysis/blob/main/foodsourcegraph.png)
 
 As shown in the graph, there are many more restaurants than grocery stores and street food vendors.  There are 1,327 restaurants, 77 street food vendors, and 45 grocery stores.
 
