@@ -19,7 +19,10 @@ https://github.com/shannonpowelson/Baltimore-food-desert-analysis/blob/main/groc
 
 This data set contains the addresses, latitude, and longitude of the grocery stores in Baltimore.  It was made from the manipulated Grocery Store data set downloaded from the python code.  The latitude and longitude of each address were manually entered using [LatLong.net](https://www.latlong.net/convert-address-to-lat-long.html) and [gps-coordinates.net](https://www.gps-coordinates.net/).
 
-3. 
+3. Charm City Circulator Data Sets
+
+
+These four data sets are for the four Charm City Circulator lines.  The addresses of the bus stops for each line were found on [Moovit](https://moovitapp.com/index/en/public_transit-lines-Washington_DCBaltimore-142-1196836) and entered manually into excel.  Using these addresses, the latitude and longitude were manually entered using [LatLong.net](https://www.latlong.net/convert-address-to-lat-long.html) and [gps-coordinates.net](https://www.gps-coordinates.net/).
 
 ## Data Analysis
 First we identify the main sources of food in Baltimore City, Maryland.  These main food sources are grocery stores, street food vendors, and restaurants.  We graphed the number of locations of each food source below.  
