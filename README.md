@@ -22,8 +22,9 @@ Now we map the grocery stores and free public transportation routes in Baltimore
 As we can see in this graph, the public transportation is concentrated in the middle of Baltimore City and around the inner harbor.  This leaves the rest of Baltimore without any free public transportation to use to get to grocery stores.  
 
 
-Next, we add the street food vendors to the map.  Our original hypothesis was that the street food vendors would be more widespread throughout Baltimore.  Therefore, even if the food is not healthy, at least there would be more food options for those who cannot make it to a grocery store.  
+Next, we add the street food vendors to the map (labeled with the light blue map markers).  Our original hypothesis was that the street food vendors would be more widespread throughout Baltimore.  Therefore, even if the food is not healthy, at least there would be more food options for those who cannot make it to a grocery store.  
 
+![alt text](https://github.com/shannonpowelson/Baltimore-food-desert-analysis/blob/main/streetfoodvendormap.png)
 
 However, as shown in this graph, our hypothesis was wrong.  The majority of the street food vendors are clustered around the free public transportation routes and the inner harbor.
 
