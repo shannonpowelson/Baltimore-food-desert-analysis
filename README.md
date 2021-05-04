@@ -28,6 +28,7 @@ However, as shown in this graph, our hypothesis was wrong.  The majority of the 
 
 Street food vendors have the potential to help solve the food desert problem since they are mobile and can travel to the people in need.  However, is the food healthy?  We graph the different food items offered by the street food vendors.  
 
+![alt text](https://github.com/shannonpowelson/Baltimore-food-desert-analysis/blob/main/StreetFoodVendorsBaltimore.png)
 
 As shown in this graph, the food offerings are not fresh and healthy foods.
 
