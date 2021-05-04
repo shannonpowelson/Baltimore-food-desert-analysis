@@ -21,6 +21,13 @@ This data set contains the addresses, latitude, and longitude of the grocery sto
 
 3. Charm City Circulator Data Sets
 
+https://github.com/shannonpowelson/Baltimore-food-desert-analysis/blob/main/Charm%20City%20Circulator%20-%20Blue%20Line.csv
+
+https://github.com/shannonpowelson/Baltimore-food-desert-analysis/blob/main/Charm%20City%20Circulator%20-%20Green%20Line.csv
+
+https://github.com/shannonpowelson/Baltimore-food-desert-analysis/blob/main/Charm%20City%20Circulator%20-%20Orange%20Line.csv
+
+https://github.com/shannonpowelson/Baltimore-food-desert-analysis/blob/main/Charm%20City%20Circulator%20-%20Purple%20Line.csv
 
 These four data sets are for the four Charm City Circulator lines.  The addresses of the bus stops for each line were found on [Moovit](https://moovitapp.com/index/en/public_transit-lines-Washington_DCBaltimore-142-1196836) and entered manually into excel.  Using these addresses, the latitude and longitude were manually entered using [LatLong.net](https://www.latlong.net/convert-address-to-lat-long.html) and [gps-coordinates.net](https://www.gps-coordinates.net/).
 
