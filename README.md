@@ -19,7 +19,19 @@ https://github.com/shannonpowelson/Baltimore-food-desert-analysis/blob/main/groc
 
 This data set contains the addresses, latitude, and longitude of the grocery stores in Baltimore.  It was made from the manipulated Grocery Store data set downloaded from the python code.  The latitude and longitude of each address were manually entered using [LatLong.net](https://www.latlong.net/convert-address-to-lat-long.html) and [gps-coordinates.net](https://www.gps-coordinates.net/).
 
-3. Charm City Circulator Data Sets
+3. Food Vendor Locations
+
+https://github.com/shannonpowelson/Baltimore-food-desert-analysis/blob/main/Food_Vendor_Locations.csv
+
+This data set contains data on the street food vendors in Baltimore City.  The address, latitude, longitude, and items sold columns are used in the code.  The raw data can be found [here](https://data.baltimorecity.gov/datasets/food-vendor-locations-1) on the Baltimore Open Data website. 
+
+4. Restaurants
+
+https://github.com/shannonpowelson/Baltimore-food-desert-analysis/blob/main/Restaurants.csv
+
+This data sets contains data on the restaurants in Baltimore City.  The number of total restaurants was used in the bar graph.  The raw data can be found here on the Baltimore Open Data website.  
+
+5. Charm City Circulator Data Sets
 
 https://github.com/shannonpowelson/Baltimore-food-desert-analysis/blob/main/Charm%20City%20Circulator%20-%20Blue%20Line.csv
 
