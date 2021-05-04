@@ -29,7 +29,7 @@ This data set contains data on the street food vendors in Baltimore City.  The a
 
 https://github.com/shannonpowelson/Baltimore-food-desert-analysis/blob/main/Restaurants.csv
 
-This data sets contains data on the restaurants in Baltimore City.  The number of total restaurants was used in the bar graph.  The raw data can be found here on the Baltimore Open Data website.  
+This data sets contains data on the restaurants in Baltimore City.  The number of total restaurants was used in the bar graph.  The raw data can be found [here](https://data.baltimorecity.gov/datasets/restaurants?geometry=-77.115%2C39.193%2C-76.126%2C39.379) on the Baltimore Open Data website.  
 
 5. Charm City Circulator Data Sets
 
