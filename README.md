@@ -17,6 +17,7 @@ As shown in the graph, there are many more restaurants than grocery stores and s
 
 Now we map the grocery stores and free public transportation routes in Baltimore City, Maryland.  The free public transportation routes are the [Charm City Circulator](https://transportation.baltimorecity.gov/charm-city-circulator) routes.  These routes include [the orange line](https://moovitapp.com/index/en/public_transit-line-COMMERCE_STREET_COMMERCE_STREET-Washington_DCBaltimore-142-1196836-4921465-0) (Commerce Street - Commerce Street), [the green line](https://moovitapp.com/index/en/public_transit-line-RUTLAND_AVENUE_RUTLAND_AVENUE-Washington_DCBaltimore-142-1196836-4921464-0) (Rutland Avenue - Rutland Avenue), [the blue line](https://moovitapp.com/index/en/public_transit-line-FORT_MCHENRY_CONWAY_STREET-Washington_DCBaltimore-142-1196836-32493412-0) (Fort McHenry - Conway Street), and [the purple line](https://moovitapp.com/index/en/public_transit-line-PENN_STATION_EAGER_STREET-Washington_DCBaltimore-142-1196836-44580255-0) (Penn Station - Eager Street).  These routes are color coded based on the name of the route.  The grocery stores are labeled with the black map marker.  
 
+![alt text](https://github.com/shannonpowelson/Baltimore-food-desert-analysis/blob/main/grocerymap.png)
 
 As we can see in this graph, the public transportation is concentrated in the middle of Baltimore City and around the inner harbor.  This leaves the rest of Baltimore without any free public transportation to use to get to grocery stores.  
 
