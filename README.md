@@ -7,6 +7,19 @@ _How are food deserts distributed in Baltimore City, Maryland?_
 
 ## Data Sources
 
+1. Grocery Store
+
+https://github.com/shannonpowelson/Baltimore-food-desert-analysis/blob/main/Grocery_Store%20(2).csv
+
+This data set contains data on the grocery stores in Baltimore City.  The street address, zipcode, city, and state columns are used in the code.  This data can be found [here](https://data.baltimorecity.gov/datasets/grocery-store?geometry=-76.870%2C39.262%2C-76.376%2C39.355) on the Baltimore Open Data website.  
+
+2. Grocery List
+
+https://github.com/shannonpowelson/Baltimore-food-desert-analysis/blob/main/grocerylist.csv
+
+This data set contains the addresses, latitude, and longitude of the grocery stores in Baltimore.  It was made from the manipulated Grocery Store data set downloaded from the python code.  The latitude and longitude of each address were manually entered using [LatLong.net](https://www.latlong.net/convert-address-to-lat-long.html) and [gps-coordinates.net](https://www.gps-coordinates.net/).
+
+3. 
 
 ## Data Analysis
 First we identify the main sources of food in Baltimore City, Maryland.  These main food sources are grocery stores, street food vendors, and restaurants.  We graphed the number of locations of each food source below.  
