@@ -5,7 +5,7 @@ Food deserts are a major problem in Baltimore City, Maryland.  A food desert is 
 ## Business Question
 _What kinds of Baltimore City government policies should be implemented to solve the food deserts problem?_
 
-## Business Question
+## Data Question
 _How are food deserts distributed in Baltimore City, Maryland?_
 
 ## Data Sources
